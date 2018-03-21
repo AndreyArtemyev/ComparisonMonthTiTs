@@ -1,0 +1,11 @@
+C:\Users\artemae\Documents\Visual Studio 2015\Projects\BD\ConsoleApplication1\bin\Debug\GetTiTs.exe.config
+C:\Users\artemae\Documents\Visual Studio 2015\Projects\BD\ConsoleApplication1\bin\Debug\GetTiTs.exe
+C:\Users\artemae\Documents\Visual Studio 2015\Projects\BD\ConsoleApplication1\bin\Debug\GetTiTs.pdb
+C:\Users\artemae\Documents\Visual Studio 2015\Projects\BD\ConsoleApplication1\obj\Debug\GetTiTs.exe
+C:\Users\artemae\Documents\Visual Studio 2015\Projects\BD\ConsoleApplication1\obj\Debug\GetTiTs.pdb
+D:\АНДРЕЙ\ИНСТИТУТ\2 практика\Visual Studio 2015\Projects\BD\ConsoleApplication1\bin\Debug\GetTiTs.exe.config
+D:\АНДРЕЙ\ИНСТИТУТ\2 практика\Visual Studio 2015\Projects\BD\ConsoleApplication1\bin\Debug\GetTiTs.exe
+D:\АНДРЕЙ\ИНСТИТУТ\2 практика\Visual Studio 2015\Projects\BD\ConsoleApplication1\bin\Debug\GetTiTs.pdb
+D:\АНДРЕЙ\ИНСТИТУТ\2 практика\Visual Studio 2015\Projects\BD\ConsoleApplication1\obj\Debug\GetTiTs.csprojResolveAssemblyReference.cache
+D:\АНДРЕЙ\ИНСТИТУТ\2 практика\Visual Studio 2015\Projects\BD\ConsoleApplication1\obj\Debug\GetTiTs.exe
+D:\АНДРЕЙ\ИНСТИТУТ\2 практика\Visual Studio 2015\Projects\BD\ConsoleApplication1\obj\Debug\GetTiTs.pdb

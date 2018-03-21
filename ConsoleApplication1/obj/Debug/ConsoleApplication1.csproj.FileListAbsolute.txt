@@ -1,0 +1,6 @@
+c:\users\artemae\documents\visual studio 2015\Projects\BD\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\artemae\documents\visual studio 2015\Projects\BD\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\artemae\documents\visual studio 2015\Projects\BD\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\artemae\documents\visual studio 2015\Projects\BD\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\artemae\documents\visual studio 2015\Projects\BD\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\artemae\documents\visual studio 2015\Projects\BD\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
